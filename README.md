@@ -1,9 +1,10 @@
-### Hola, Im Yoshita
+### Hola, Im Yoshita!
 
 
 
- -🌱 I’m currently learning Cloud Computing
- -👯 I’m looking to collaborate on projects
+ -🌱 I’m currently learning Cloud Computing.
+ 
+ -👯 I’m looking to collaborate on projects.
 
  📫 How to reach me: yoshita.m2@gmail.com
 
