@@ -2,7 +2,7 @@
 
 
 
- -🌱 I’m currently learning everything.
+ -🌱 I’m currently learning Machine Learning.
  
  -👯 I’m looking to collaborate on projects.
 
