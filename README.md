@@ -6,7 +6,7 @@
  
  -👯 I’m looking to collaborate on projects.
 
- 📫 How to reach me: yoshita.m2@gmail.com
+ 📫 How to reach me: yoshita.m3@gmail.com
  
  My LinkedIn : https://www.linkedin.com/in/yoshita-madamala-3259a21a2/
  
